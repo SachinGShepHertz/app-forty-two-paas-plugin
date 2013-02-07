@@ -49,6 +49,6 @@ a) you have to add an extra plugin repository definition in BuildConfig.groovy
              
 b) Go to step 3)(i)
 
-4) Ready to use.
+4) Ready to use. fired
 
 Configuration : The app-forty-two-paas plug-in provides a REST based service with Native SDKs for Windows 7, J2ME, iOS, Android or HTML5 supporting all popular languages such as Java, Groovy, PHP, Ruby, Grails and C#. There are around 18+ modules with over 300+ API's which will help developers to develop their 		applications irrespective of the App domain they are developing. 
